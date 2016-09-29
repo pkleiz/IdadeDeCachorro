@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 {
                     valorDigitado= Integer.parseInt(textoDigitado);
                     calculo=valorDigitado*7;
-                    resultadoidade.setText("A idade dele seria "+calculo+" Se ele fosse humano");
+                    resultadoidade.setText("A idade dele seria "+calculo+" anos Se ele fosse humano");
                 }
             }
         });

@@ -58,9 +58,10 @@
         android:id="@+id/resultadoidadeid"
         android:background="@android:color/background_light"
         android:layout_height="20sp"
-        android:layout_width="100sp"
+        android:layout_width="400sp"
+        android:layout_marginTop="42dp"
         android:layout_below="@+id/botaoidadeid"
-        android:layout_alignLeft="@+id/fotoid"
-        android:layout_alignStart="@+id/fotoid"
-        android:layout_marginTop="38dp" />
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textStyle="normal|italic" />
 </RelativeLayout>
